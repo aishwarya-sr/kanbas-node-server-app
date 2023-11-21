@@ -1,0 +1,56 @@
+[
+    {
+      "_id": "M101",
+      "name": "Course Information",
+      "description": "week1-intro",
+      "course": "CS6140"
+    },
+    {
+      "_id": "M102",
+      "name": "Part I: Basic ML methods for regression and classifican",
+      "description": "week2-linear-regression",
+      "course": "CS6140"
+    },
+    {
+      "_id": "M103",
+      "name": " Part II: Neural networks & Deep learning",
+      "description": "week7-generative-models",
+      "course": "CS6140"
+    },
+    {
+      "_id": "M201",
+      "name": "Resources",
+      "description": "Resources",
+      "course": "CS5610"
+    },
+    {
+      "_id": "M202",
+      "name": " Week 0 - INTRO",
+      "description": "Introduction to the course",
+      "course": "CS5610"
+    },
+    {
+      "_id": "M203",
+      "name": " Week 1 - HTML",
+      "description": "Learn how to create user interfaces with HTML",
+      "course": "CS5610"
+    },
+    {
+      "_id": "M301",
+      "name": "Welcome Module",
+      "description": "Welcome to the course",
+      "course": "CS5800"
+    },
+    {
+      "_id": "M302",
+      "name": "Module 0: Growth of Functions with Sorting",
+      "description": "Optional recap",
+      "course": "CS5800"
+    },
+    {
+      "_id": "M303",
+      "name": "Module 1: Asymptotic Notation",
+      "description": "Overview",
+      "course": "CS5800"
+    }
+  ]
