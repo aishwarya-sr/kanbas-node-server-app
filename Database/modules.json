@@ -52,5 +52,23 @@
       "name": "Module 1: Asymptotic Notation",
       "description": "Overview",
       "course": "CS5800"
+    },
+    {
+      "_id": "M401",
+      "name": "Welcome Module",
+      "description": "Welcome to the course",
+      "course": "CS5010"
+    },
+    {
+      "_id": "M402",
+      "name": "Module 0: Java recap",
+      "description": "Optional recap",
+      "course": "CS5010"
+    },
+    {
+      "_id": "M403",
+      "name": "Module 1: Object Oriented Design",
+      "description": "Overview",
+      "course": "CS5010"
     }
   ]
