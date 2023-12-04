@@ -5,7 +5,7 @@ function UserRoutes(app) {
       const user = await dao.createUser(req.body);
       res.json(user);
     } catch {
-      res.status(500).json("User already exists")
+      res.status(500).json( { message: "User already exists" })
     }
   }
 
